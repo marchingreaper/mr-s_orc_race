@@ -1,0 +1,27 @@
+{
+	"Src": "Redguard",
+        "Name": "Orc",
+	"DescriptionString":
+	[		
+		"              Orcs hail from the mountains of Wrothgar.",
+		"        You are part of a towering, green skinned people",
+        	"      commonly shunned by the other kins of Tamriel.",
+       		"      Due to the hostilities they constantly face from",
+		" their neighbours, orcs have grown to endure the trials",
+		"of war. Their brute strength has no match and their rage",
+		"                                        is unstoppable.",
+		"                         Is your character to be an Orc?"
+
+	],
+
+	"PaperDollBackground": "OrcBackground.IMG",
+	"PaperDollBodyFemaleClothed": "OrcFemaleUnderwear.IMG",
+	"PaperDollBodyFemaleUnclothed": "OrcFemaleNude.IMG",
+	"PaperDollBodyMaleClothed": "OrcMaleUnderwear.IMG",
+	"PaperDollBodyMaleUnclothed": "OrcMaleNude.IMG",
+	"PaperDollHeadsFemale": "OrcFemaleFace.CIF",
+	"PaperDollHeadsMale": "OrcMaleFace.CIF",
+
+	"ResistanceFlags": "Disease",
+	"SpecialAbilities": "Athleticism"
+}
